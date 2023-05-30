@@ -2,6 +2,13 @@
 
 Tristan GLEHEN TD04 - Easily access your favourite cities' meteo easily
 
+Liste des fonctionnalités implémentées :
+UI Page 1
+UI Partielle Page 2
+Implémentation de la requête de recherche de ville
+Détail des requêtes pour la météo d'une ville
+Message d'erreur en cas de retour autre que status code 200
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
